@@ -1,0 +1,13 @@
+site_name: The Field Guide to Open Source in the Newsroom - Spanish
+pages:
+    - Home: index.md
+    - Chapter 1 - Optar por código abierto y conseguir vistos buenos: Capitulo01-Optar-por-codigo-abierto.md
+    - Chapter 2 - Empezar un proyecto nuevo: Capitulo02-Empezar-proyecto-nuevo.md
+    - Chapter 3 - Liberar un proyecto anterior: Capitulo03-Proyectos-anteriores.md
+    - Chapter 4 - El código y cómo lanzar la primera versión: Capitulo04-Codigo-primera-version.md
+    - Chapter 5 - Documentación: Capitulo05-Documentacion.md
+    - Chapter 6 - Trabajar en comunidad: Capitulo06-Comunidad.md
+    - Chapter 7 - Administración de versiones: Capitulo07-Versiones.md
+    - Chapter 8 - Abandono y desactivación: Capitulo08-Abandono-desactivacion.md
+    - Help: ayuda.md
+theme: readthedocs
