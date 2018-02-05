@@ -1,16 +1,16 @@
 # Guía de campo para liberar código en la redacción
 
-Los periodistas que trabajan con programación saben que liberar el código de sus proyectos vale la pena. Cuando compartimos herramientas que resuelven problemas comunes, podemos avanzar más rápido y dedicar más de nuestro tiempo a cubrir noticias. Abrir el código de un proyecto lo expone a muchas más miradas, y lo hace mejor.
+Los periodistas que trabajan con programación saben que vale la pena liberar el código de sus proyectos. Cuando compartimos herramientas que resuelven problemas comunes, podemos avanzar más rápido y aprovechar mejor el tiempo investigando una noticia. Compartir el código de un proyecto lo expone a muchas más miradas y lo hace mejor.
 
-Sin embargo, no es tarea sencilla. Los plazos de entrega en las redacciones suelen dejar poco tiempo para la limpieza, la documentación y, menos aún, la planificación de las cuales depende la reusabilidad de nuestro código. En las redacciones donde esta no es una práctica habitual, puede ser difícil defender los beneficios de "regalar" el trabajo propio. Antes, durante y después de lanzar un proyecto de código abierto nos hacemos una serie común de preguntas técnicas y culturales, para las cuales, desafortunadamente, no tenemos un repositorio central de respuestas.
+Sin embargo, no es tarea sencilla. Los plazos de entrega en las redacciones suelen dejar poco tiempo para dedicarle a tareas que son imprescindibles para preparar un programa de manera tal que pueda ser reutilizado por otros: limpieza, documentación, planificación. En las redacciones donde esta no es una práctica habitual, puede ser difícil defender los beneficios de "regalar" el trabajo propio. En el proceso de lanzar un proyecto de código abierto surgen preguntas técnicas y culturales, para las cuales, desafortunadamente, no tenemos un repositorio central de respuestas.
 
 Pero entre todos podemos crear uno.
 
-## Sobre esta guía
+## Acerca de esta guía
 
-Esta guía recoge recomendaciones y experiencias de decenas de desarrolladores y tecnólogos de los medios, que abarcan todo el proceso de liberación de código en el contexto del periodismo, desde el inicio mismo de un proyecto hasta su abandono y desactivación. Es un recurso colaborativo que continuará creciendo. Invitamos a todos a colaborar y a [compartir ejemplos de trabajo](docs/es/colaborar.md) con otros colegas que también usan programación para hacer periodismo.
+Esta guía recoge recomendaciones y experiencias de decenas de desarrolladores y tecnólogos de los medios, que abarcan todo el proceso de liberación de código en contextos periodísticos, desde el inicio mismo de un proyecto hasta su abandono y desactivación. Es un recurso colaborativo que continuará creciendo. Invitamos a todos a colaborar y a [compartir ejemplos de trabajo](docs/es/colaborar.md) con otros colegas que también usan programación para hacer periodismo.
 
-Esta guía la coordina [OpenNews](https://opennews.org/), un equipo que ayuda a desarrolladores, diseñadores y analistas de datos a reunirse y colaborar en proyectos periodísticos de código abierto. La primera versión se escribió en un [evento de dos días en diciembre de 2016](https://source.opennews.org/articles/building-guide-open-sourcing-newsroom-code/), con la participación presencial y remota de unas 20 personas.
+Esta guía la coordina [OpenNews](https://opennews.org/), un equipo que ayuda a desarrolladores, diseñadores y analistas de datos a reunirse y colaborar en proyectos periodísticos de código abierto. La primera versión se escribió en un [evento de dos días en diciembre de 2016](https://source.opennews.org/articles/building-guide-open-sourcing-newsroom-code/) con la participación presencial y remota de unas 20 personas.
 
 ## Índice
 
@@ -26,12 +26,12 @@ Esta guía la coordina [OpenNews](https://opennews.org/), un equipo que ayuda a 
 
 ## Más recursos
 
-La *Guía de campo para liberar código en la redacción* está escrita por personas a quienes les importa el periodismo, para ayudar, específicamente, a lidiar con los desafíos culturales y tecnológicos que enfrentan los desarrolladores en los medios. Hay otras guías magníficas para liberación de código (en inglés):
+La *Guía de campo para liberar código en la redacción* está escrita por gente que ama el periodismo, para ayudar, específicamente, a superar los desafíos culturales y tecnológicos que enfrentan los desarrolladores en los medios. Hay otras guías magníficas (en inglés):
 
-* [Guías de código abierto](https://opensource.guide/) de GitHub
-* ["Producción de software de código abierto"](http://producingoss.com/) de Karl Fogel
+* [Guías de código abierto](https://opensource.guide/) compiladas por GitHub
+* [Producción de software de código abierto](http://producingoss.com/) de Karl Fogel
 
-Nuestra guía también tiene una herramienta asociada: Open Project Linter es una lista automatizada de elementos que puedes usar para comprobar si los directorios de tu proyecto cumplen con buenas prácticas de documentación y programación. (¡Y también es un proyecto de código abierto en el cual puedes colaborar!)
+Nuestra guía también tiene una herramienta asociada: *Open Project Linter* es una lista automatizada de elementos que puedes usar para comprobar si los directorios de tu proyecto cumplen con buenas prácticas de documentación y programación. (¡Y también es un proyecto de código abierto en el cual puedes colaborar!)
 
 * [Open Project Linter](https://github.com/OpenNewsLabs/open-project-linter)
 
