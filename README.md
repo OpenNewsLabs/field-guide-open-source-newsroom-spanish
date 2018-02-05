@@ -1,3 +1,5 @@
+NOTE: This GitHub repo contains the Spanish translation for the [Field Guide to Open Source in the Newsroom](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom) project. Translated files live in the [/docs directory](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom-spanish/tree/master/docs) so that we can provide a [reader-friendly version at Read The Docs](http://fieldguide.opennews.org/es/latest/).
+
 # The Field Guide to Open Source in the Newsroom
 
 Journalists who work with code know how open-source projects pay off. When we share tools that solve common problems, we work faster and spend more time covering the news. Releasing projects to the public puts more eyes on our code, and makes it better.
@@ -44,6 +46,7 @@ This is a community resource, and it gets better every time anyone from the jour
 
 This project includes ongoing efforts to localize for readers in:
 
+* [English](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom)
 * Spanish (initial translation by Barbara Maseda—thank you, Barbara!)
 
 ## Contact
