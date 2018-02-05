@@ -47,6 +47,7 @@ Este es un recurso colaborativo que mejora cada vez que alguien de la comunidad 
 
 Las siguientes personas han colaborado con esta guía:
 
+* Barbara Maseda
 * Kaeti Hinck
 * Jeremy Bowers
 * Kavya Sukumar
@@ -74,7 +75,6 @@ Las siguientes personas han colaborado con esta guía:
 * Erin Kissane
 * Noah Veltman
 * Aurelia Moser
-* Barbara Maseda
 
 ## Licencia
 

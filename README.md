@@ -44,7 +44,7 @@ This is a community resource, and it gets better every time anyone from the jour
 
 This project includes ongoing efforts to localize for readers in:
 
-* [Spanish](es/)
+* Spanish (initial translation by Barbara Maseda—thank you, Barbara!)
 
 ## Contact
 
@@ -54,6 +54,7 @@ Want to know more about this guidebook? Have a question about open-sourcing a ne
 
 The following people have contributed to this guidebook:
 
+* Barbara Maseda
 * Kaeti Hinck
 * Jeremy Bowers
 * Kavya Sukumar
