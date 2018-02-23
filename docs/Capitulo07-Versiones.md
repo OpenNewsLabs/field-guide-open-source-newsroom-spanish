@@ -1,8 +1,8 @@
-﻿# Capítulo 7: Administración de versiones
+# Capítulo 7: Administración de versiones
 
-Cuando sigues una cobertura en vivo en un sitio web, normalmente miras la hora a la que se publicó cada post individual para ver si los periodistas todavía están actualizando la historia o si ya terminó. De esa misma forma, la gente que está considerando usar tu software quiere saber si tu proyecto todavía está vivo (si sigue mejorándose) o muerto (si ya no se actualiza).  Para ello buscarán la fecha de publicación de tu versión más reciente del programa, y una hoja de ruta que les diga cuándo y cómo planeas seguir mejorándolo.
+Cuando sigues una cobertura en vivo en un sitio web, normalmente miras la hora a la que se publicó cada post individual para ver si los periodistas todavía están actualizando la historia o si ya terminó. De esa misma forma, la gente que está considerando usar tu software quiere saber si tu proyecto todavía está vivo (si sigue mejorándose) o muerto (si ya no se actualiza). Para ello buscarán la fecha de publicación de tu versión más reciente del programa, y una hoja de ruta que les diga cuándo y cómo planeas seguir mejorándolo.
 
-Cuando publicas una versión nueva del programa para que otras personas la instalen y la usan, ese proceso se conoce también como "lanzar" o "empujar" una nueva versión.
+Cuando publicas una versión nueva del programa para que otras personas la instalen y la usen, ese proceso se conoce también como "lanzar" o "empujar" una nueva versión.
 
 El trabajo de mejoramiento de un programa puede ser lento y bastante invisible para los demás (dentro y fuera de tu redacción). Publicar y actualizar la hoja de ruta y publicar versiones nuevas le dará más visibilidad a tu trabajo, ayudará a crear un cronograma colaborativo con otras personas, y persuadirá a otras redacciones para usar tu programa.
 
@@ -24,13 +24,13 @@ Para leer otra aproximación a la numeración de las versiones, consulta las [id
 
 ## Unas cuantas sugerencias profesionales para informar sobre nuevas versiones
 
-* Después de publicar una nueva versión, verás un incremento de las preguntas y la comunicación (solicitudes de asistencia de parte de los usuarios, propuestas de asociación, preguntas sobre la posibilidad de que añadas nuevas características, etc. Es una consecuencia natural de la publicidad).
+* Después de publicar una nueva versión, verás que se incrementan las preguntas y la comunicación (solicitudes de asistencia de parte de los usuarios, propuestas de asociación, preguntas sobre la posibilidad de que añadas nuevas características, etc. Es una consecuencia natural de la publicidad).
 
 * Mantén públicamente visible una página web que indique claramente cómo acceder a las notas asociadas a la nueva versión y al paquete y al código fuente para la versión más reciente, así como instrucciones para instalarlo, y que contenga (o esté hipervinculado) a los problemas más importantes ("problemas conocidos"), ej. cosas con las que el usuario debe tener cuidado (riesgos de pérdida de datos o advertencias tipo "vas a tener que poner empeño en el paso 4").
 
 ## Hoja de ruta y planificación de versiones
 
-¡Anuncia públicamente el estado de tu proyecto! Incluso si has decidido dejar de darle mantenimiento (ver [Capítulo 8](Capitulo08-Abandono-desactivacion.md)). Es algo que puede suceder, y está bien informárselo al mundo. Mantener a los usuarios actualizados te ayudará a pedir ayuda realmente útil de tus colaboradores:
+¡Anuncia públicamente el estado de tu proyecto! Incluso si has decidido dejar de darle mantenimiento (ver [capítulo 8](Capitulo08-Abandono-desactivacion.md)). Es algo que puede suceder y está bien informárselo al mundo. Mantener a los usuarios actualizados te ayudará a pedir ayuda realmente útil de tus colaboradores:
 
 Ejemplos de hojas de ruta:
 
@@ -62,7 +62,7 @@ Es posible que pienses que hay gente que desearía ver una versión nueva todas 
 
 La lista de puntos a verificar para una nueva versión podría incluir:
 
-* [ ] Higieniza secretos e información personal identificable (consulta el [Capítulo 4](Capitulo04-Primera-version.md))
+* [ ] Higieniza secretos e información personal identificable (consulta el [capítulo 4](Capitulo04-Primera-version.md))
 
 * [ ] Haz un resumen de los cambios que has hecho desde la última versión (usa los registros en el sistema de control de fuente, como Git, y haz una búsqueda en tu rastreador de errores), poniendo énfasis en los cambios que solucionan vulnerabilidades de seguridad o que necesitan que tus usuarios cambien su flujo de trabajo o su configuración de software/hardware.
 
