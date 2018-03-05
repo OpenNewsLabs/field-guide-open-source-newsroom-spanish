@@ -1,16 +1,16 @@
-﻿# Capítulo 8: Abandono y desactivación
+# Capítulo 8: Abandono y desactivación
 
-**Hello darkness, my old friend**
+***No te aferres, ya no te aferres...***
 
-![](https://media.opennews.org/fieldguides/open-sourcing/yorick.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Juan_Gabriel_---_Pepsi_Center_---_09.26.14_-_15183742479.jpg =150x)
 
-Es casi seguro que tendrás que separarte de tu proyecto. Es una parte perfectamente natural del ciclo de vida del código abierto y no deberías sentirte mal por eso. Ahora bien, que sea normal no significa que vaya a ser fácil. Los finales no se escriben por sí solos y los preparativos para ese momento se asemejan mucho a escribir un testamento: no es agradable, pero hará que una circunstancia difícil sea mucho más llevadera si puedes prepararte para ella con antelación. Si no pones fin abiertamente a tu proyecto o te separas de él, puedes dejar a tus usuarios actuales y futuros en la oscuridad. Esto puede causar confusión o generar desconfianza hacia tu proyecto o tu organización. Piensa en todo el trabajo que invertiste en levantar el proyecto desde los cimientos; desactivarlo va a llevar más o menos el mismo esfuerzo, probablemente más. Pero no hay que temer: planificar la sucesión puede cambiar completamente la transición y hacerla más fácil. 
+Es casi seguro que tendrás que separarte de tu proyecto. Es una parte perfectamente natural del ciclo de vida del código abierto y no deberías sentirte mal por eso. Ahora bien, que sea normal no significa que vaya a ser fácil. Los finales no se escriben por sí solos y los preparativos para ese momento se asemejan mucho a escribir un testamento: no es agradable, pero ayudará a que una circunstancia difícil sea mucho más llevadera si puedes prepararte para ella con antelación. Si no pones fin abiertamente a tu proyecto o te separas de él, puedes dejar a tus usuarios actuales y futuros en la oscuridad. Esto puede causar confusión o generar desconfianza hacia tu proyecto o tu organización. Piensa en todo el trabajo que invertiste en levantar el proyecto desde los cimientos; desactivarlo va a llevar más o menos el mismo esfuerzo, probablemente más. Pero no hay que temer: planificar la sucesión puede cambiar completamente la transición y hacerla más fácil. 
 
-## Por qué abandonar del proyecto
+## Por qué abandonar el proyecto
 
-Cualquiera que empieza un proyecto de código abierto probablemente necesitará ponerle fin, o al menos desvincularse de él. ¿Es normal estar enamoradísim@ del proyecto al principio y luego ya no tener tiempo o interés...  y hasta llegar a tomarle mala voluntad? Sí. Sí. Positivo. Algunas razones que podrían hacerte abandonar el proyecto: 
+Cualquiera que empieza un proyecto de código abierto probablemente necesitará ponerle fin, o al menos desvincularse de él. ¿Es normal estar enamoradísimo(a) del proyecto al principio y luego ya no tener tiempo o interés...  y hasta llegar a tomarle mala voluntad? Sí. Sí. Positivo. Algunas de las razones comunes para abandonar un proyecto: 
 
-* Ya no tienes tiempo para dedicarle. Por ejemplo, te has retirado del desarrollo de software y ahora administras una granja bovina en Wisconsin.
+* Ya no tienes tiempo para dedicarle. Por ejemplo, te has retirado del desarrollo de software y ahora administras una granja bovina.
 
 * Tus necesidades originales han cambiado. Por ejemplo, ya no necesitas un scraper para extraer datos del archivo de la Comisión Federal Electoral porque te has pasado al departamento que asigna a los lectores a diferentes casas en Hogwarts. 
 
@@ -22,19 +22,19 @@ Cualquiera que empieza un proyecto de código abierto probablemente necesitará 
 
 ![](https://media.opennews.org/fieldguides/open-sourcing/telnet.gif)
 
-Hay tres caminos que puedes tomar para separarte de un proyecto de código abierto: 
+Hay tres caminos para separarte de un proyecto de código abierto: 
 
-* Puedes entregarle el proyecto a otras personas que se encargarán de mantenerlo. 
+* Puedes entregárselo a otras personas que se encargarán de mantenerlo. 
 
-* Puedes archivar o preservar el proyecto para los arqueólogos informáticos del futuro. 
+* Puedes archivarlo o preservarlo para los arqueólogos informáticos del futuro. 
 
-* Puedes retirar tu proyecto de internet, o sea, eliminarlo. 
+* Puedes retirarlo de internet, o sea, eliminarlo. 
 
 ## ¿Cómo decidir qué camino elegir?
 
 ¿Tienes gente que pueda servir de relevo? Valora traspasarles el control del proyecto, especialmente si deseas que el público pueda seguir usándolo.
 
-¿Crees que alguien podría beneficiarse de tu aproximación al problema que querías resolver, incluso si la solución no fue óptima? Valora preservar o archivar tu proyecto. Puedes aclarar que el proyecto ya no está recibiendo mantenimiento pero invitar a la gente a bifurcarlo, siempre y cuando no sea peligroso usar el programa.
+¿Crees que alguien podría beneficiarse de tu aproximación al problema que querías resolver, incluso si la solución no fue óptima? Valora preservar o archivar tu proyecto. Puedes aclarar que ya no está recibiendo mantenimiento e invitar a la gente a bifurcarlo, siempre y cuando no sea peligroso usar el programa.
 
 ¿El proyecto puede ser perjudicial para ti o para quienes lo usen o lean sobre él? Puede que quieras retirarlo de internet, en especial si no quieres que se te siga asociando con él.
 
@@ -52,7 +52,7 @@ Solo el primer camino significa que tu proyecto va a seguir actualizándose/reci
 
 He aquí más información sobre los tres caminos a tomar a medida que tu proyecto muere o tu participación finaliza. 
 
-### Traspasar el control de tu proyecto
+### Traspasar el control
 
 ![](https://media.opennews.org/fieldguides/open-sourcing/handoff.gif)
 
@@ -60,9 +60,9 @@ Si tu proyecto es popular y tiene una comunidad activa a su alrededor, la mejor 
 
 #### Elegir una nueva dirección
 
-En dependencia del nivel de participación de la comunidad, puede que ya tengas colaboradores muy activos que hayan tomado la batuta.  Esos serán los mejores candidatos para reemplazarte. 
+En dependencia del nivel de participación de la comunidad, puede que ya tengas colaboradores muy activos que hayan tomado la batuta. Esos serán los mejores candidatos para reemplazarte. 
 
-Si no tienes gente así en tu comunidad, entonces puede ser difícil encontrar a alguien.  Puedes usar el foro, lista, chat u otro canal que uses para comunicarte con tus usuarios y colaboradores para anunciar que se necesita a alguien que asuma la dirección del proyecto.  Una consideración importante es si confías en que el trabajo de tu relevo va a estar a la altura del tuyo. Al final, hacerles entrega del proyecto (cuando está ligado a ti y a tu organización) puede interpretarse como un acto de confianza.
+Si no tienes gente así en tu comunidad, entonces puede ser difícil encontrar a alguien. Puedes usar el foro, lista, chat u otro canal que uses para comunicarte con tus usuarios y colaboradores para anunciar que se necesita a alguien que asuma la dirección del proyecto. Una consideración importante es si confías en que el trabajo de tu relevo va a estar a la altura del tuyo. Al final, hacerles entrega del proyecto (cuando está ligado a ti y a tu organización) puede interpretarse como un acto de confianza.
 
 #### Establecer las expectativas para la nueva administración
 
@@ -84,11 +84,11 @@ Normalmente es muy fácil comunicar la mecánica de programación y del proyecto
 
 #### Comunícate con tus usuarios
 
-Con la nueva dirección es probable que haya cambios, y es importante comunicar esos cambios, o la ausencia de ellos, a la gente que usa tu proyecto. Asegúrate de explicar los cambios a tus usuarios con toda la antelación posible. Envía notificaciones varias veces como recordatorio sin que la frecuencia sea tanta que lleguen a molestar.  Y cada vez que puedas envía notificaciones por varios canales.
+Con la nueva dirección es probable que haya cambios y es importante comunicar esos cambios, o la ausencia de ellos, a la gente que usa tu proyecto. Asegúrate de explicar los cambios a tus usuarios con toda la antelación posible. Envía notificaciones varias veces como recordatorio sin que la frecuencia sea tanta que lleguen a molestar. Y cada vez que puedas envía notificaciones por varios canales.
 
 #### Lo que debes entregar
 
-El traspaso del control tiene su mecánica, centrada principalmente en el acceso, la propiedad del programa y los recursos del proyecto.  Estos elementos pueden dividirse entre varias personas, o ser ya responsabilidad de alguien más.
+El traspaso del control tiene su mecánica, centrada principalmente en el acceso, la propiedad del programa y los recursos del proyecto. Estos elementos pueden dividirse entre varias personas o ser ya responsabilidad de alguien más.
 
 * Propiedad del repositorio
 
@@ -102,7 +102,7 @@ El traspaso del control tiene su mecánica, centrada principalmente en el acceso
 
 ![](https://media.opennews.org/fieldguides/open-sourcing/indy.gif)
 
-Si no hay un grupo natural para relevarte, puedes considerar archivar el proyecto.  La tarea principal al archivar un proyecto es la comunicación.
+Si no hay un grupo natural para relevarte, puedes considerar archivar el proyecto. La tarea principal al archivar un proyecto es la comunicación.
 
 #### ¿Qué necesito comunicarles a los usuarios actuales?
 
@@ -142,7 +142,7 @@ Si no hay un grupo natural para relevarte, puedes considerar archivar el proyect
 
 ![](https://media.opennews.org/fieldguides/open-sourcing/yeller.gif)
 
-En algunos casos, puede que decidas retirar tu programa de internet.  A continuación algunas cosas a considerar antes de tomar la decisión.
+En algunos casos, puede que decidas retirar tu programa de internet. A continuación algunas cosas a considerar antes de tomar la decisión.
 
 #### ¿Debería simplemente archivar mi proyecto?
 
@@ -198,7 +198,7 @@ Si no respondiste que sí a ninguna de las preguntas anteriores, entonces puedes
 </table>
 
 
-## Esta es la forma que ha tomado nuestro dolor
+## Esta es la forma que ha adoptado nuestro dolor
 
 A continuación algunos ejemplos de cómo algunos desarrolladores han abandonado o traspasado sus programas.
 
@@ -220,14 +220,14 @@ A continuación algunos ejemplos de cómo algunos desarrolladores han abandonado
 
 Ahora que has traspasado tu proyecto, tómate un momento para sentirte bien por el buen trabajo realizado y por todo lo bueno que puedes hacer en el futuro.  
 
-Puede que te sientas culpable o irresponsable por abandonar un proyecto, especialmente si es uno de tus primeros, o uno en el que estuviste muy involucrad@, pero no desmayes. Esto pasa todo el tiempo y el mundo sigue su curso.
+Puede que te sientas culpable o irresponsable por abandonar un proyecto, especialmente si es uno de tus primeros, o uno en el que estuviste muy involucrado(a), pero no desmayes. Esto pasa todo el tiempo y el mundo sigue su curso.
 
 ### Estudio de caso
 
-> El proyecto de Burton Street (2009) funcionó gracias a las alianzas y colaboraciones que surgieron a pesar de los recursos limitados del medio de prensa que lo creó.  Pero esta misma estructura colaborativa fue lo que lo hizo inestable a la larga.  Como un año después de que el proyecto ganara premios, algunos desarrolladores se acercaron al periódico para usar el código para crear algo parecido en un barrio que estaba lidiando con una situación similar, más al este en Carolina del Norte. Aunque la publicación estuvo de acuerdo, las circunstancias personales de los desarrolladores cambiaron, y el proyecto tambaleó. El periódico retuvo el código, y el proyecto se alojó en su sitio, a pesar de las promesas de liberar el código públicamente para cualquiera que quisiera usarlo.
+> El proyecto de Burton Street (2009) funcionó gracias a las alianzas y colaboraciones que surgieron a pesar de los recursos limitados del medio de prensa que lo creó. Pero esta misma estructura colaborativa fue lo que lo hizo inestable a la larga. Como un año después de que el proyecto ganara premios, algunos desarrolladores se acercaron al periódico para usar el código para crear algo parecido en un barrio que estaba lidiando con una situación similar, más al este en Carolina del Norte. Aunque la publicación estuvo de acuerdo, las circunstancias personales de los desarrolladores cambiaron y el proyecto tambaleó. El periódico retuvo el código y el proyecto se alojó en su sitio, a pesar de las promesas de liberar el código públicamente para cualquiera que quisiera usarlo.
 
-> En 2014, el proyecto Burton Street desapareció completamente del sitio web del periódico, en medio de la vorágine de un rediseño. Esto pasó después de un período caótico en la redacción por deficiencias administrativas, cuando ya el equipo que había creado el proyecto originalmente había entregado el programa al periódico. El proyecto, y el código que lo hizo posible, se perdieron completamente porque no había una forma clara de preservarlo o entregárselo a otra entidad.
+> En 2014, el proyecto Burton Street desapareció completamente del sitio web del periódico, en medio de la vorágine de un rediseño. Sucedió después de un período caótico en la redacción por deficiencias administrativas, cuando ya el equipo que había creado el proyecto originalmente había entregado el programa al periódico. El proyecto, y el código que lo hizo posible, se perdieron completamente porque no había una forma clara de preservarlo o entregárselo a otra entidad.
 
 > La lección: Una planificación más clara del carácter abierto del proyecto hubiese marcado una gran diferencia. Mientras que algunos proyectos tienen finales naturales, este pudo haber sido mucho más útil durante mucho más tiempo. Ayudó a proporcionar una plataforma directa a un área marginada en Asheville y pudo haber servido igual en muchos otros lugares. Su final fue prematuro y no a causa de ningún plan intencional, sino por pura negligencia, planificación deficiente y falta de prioridades claras. Esto es lo que puede pasar cuando no se tiene un plan claro de abandono/desactivación.
 
-> Para saber más sobre cómo el proyecto Burton Street usó la colaboración de varios grupos para acometer un proyecto con recursos limitados, consulta el [Capítulo 1](Capitulo01-Optar-por-codigo-abierto.md). Para leer más sobre el proyecto como un ejemplo de comunicación comunitaria, consulta el [Capítulo 6](Capitulo06-Comunidad.md).
+> Para saber más sobre cómo el proyecto Burton Street usó la colaboración de varios grupos para acometer un proyecto con recursos limitados, consulta el [capítulo 1](Capitulo01-Optar-por-codigo-abierto.md). Para leer más sobre el proyecto como un ejemplo de comunicación comunitaria, consulta el [capítulo 6](Capitulo06-Comunidad.md).
