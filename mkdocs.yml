@@ -1,5 +1,5 @@
 site_name: The Field Guide to Open Source in the Newsroom - Spanish
-pages:
+nav:
     - Inicio: index.md
     - Capítulo 1 - Optar por código abierto y conseguir vistos buenos: Capitulo01-Optar-por-codigo-abierto.md
     - Capítulo 2 - Empezar un proyecto nuevo: Capitulo02-Empezar-proyecto-nuevo.md
